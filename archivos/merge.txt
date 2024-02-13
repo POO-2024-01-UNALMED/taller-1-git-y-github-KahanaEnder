@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Juan José Arango Hoyos-18 Años
+
 Mis aspiraciones con la materia son aprender todo el  contenido,aprender a  manipular objetos y los diversos paradigmas de programacion y ser capaz de aplicar lo visto en otras asignaturas a esta materia
+
+Ahora si puedo subir el commit con la carpeta archivos porque ya tiene contenido
+
+Hay que tener cuidado ya que al nombrar 2 archivos iguales crearemos un conflicto y al editarlos al mismo  tiempo podemos causar  errores y desincronización.
+
